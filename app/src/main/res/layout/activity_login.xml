@@ -6,10 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/bg_color"
-
     android:padding="20dp"
     tools:context=".LoginActivity">
-
 
     <ImageView
         android:id="@+id/logo_image"
